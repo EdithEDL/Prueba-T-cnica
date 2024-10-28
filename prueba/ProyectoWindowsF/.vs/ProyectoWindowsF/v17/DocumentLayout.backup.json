@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\generarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\generarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\generarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\generarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\catalogoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\catalogoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\data\\productosvendidos.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\data\\productosvendidos.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|c:\\users\\edith diaz\\documents\\prueba\\proyectowindowsf\\proyectowindowsf\\catalogoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84693DBD-C5C0-4BE6-99D4-1569187593E8}|ProyectoWindowsF\\ProyectoWindowsF.csproj|solutionrelative:proyectowindowsf\\catalogoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\generarVenta.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\generarVenta.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\generarVenta.cs",
+              "RelativeToolTip": "ProyectoWindowsF\\generarVenta.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:56:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "generarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\generarVenta.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\generarVenta.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\generarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoWindowsF\\generarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:56:44.708Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productosVendidos.controller.cs",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\Data\\productosVendidos.controller.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\Data\\productosVendidos.controller.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\Data\\productosVendidos.controller.cs",
+              "RelativeToolTip": "ProyectoWindowsF\\Data\\productosVendidos.controller.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:35:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ventasForm.cs",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\ventasForm.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\ventasForm.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\ventasForm.cs",
+              "RelativeToolTip": "ProyectoWindowsF\\ventasForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:35:11.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ventasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\ventasForm.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\ventasForm.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\ventasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoWindowsF\\ventasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:35:08.641Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "catalogoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\catalogoForm.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\catalogoForm.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\catalogoForm.cs",
+              "RelativeToolTip": "ProyectoWindowsF\\catalogoForm.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAA0wBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:34:53.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "catalogoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\catalogoForm.cs",
+              "RelativeDocumentMoniker": "ProyectoWindowsF\\catalogoForm.cs",
+              "ToolTip": "C:\\Users\\Edith Diaz\\Documents\\prueba\\ProyectoWindowsF\\ProyectoWindowsF\\catalogoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoWindowsF\\catalogoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:34:49.592Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
