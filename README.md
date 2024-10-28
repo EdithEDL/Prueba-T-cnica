@@ -27,9 +27,9 @@ Este proyecto es una aplicación de escritorio desarrollada en **Windows Forms**
 ## Configuración del Proyecto
 
 ### 1. Ejecución del Proyecto
-Abrir el proyecto en Visual Studio.
-Restaura los paquetes **NuGet** si es necesario.
-Ejecuta la aplicación para abrir el formulario principal, donde podrás gestionar el catálogo de productos y las ventas.
+- Abrir el proyecto en Visual Studio.
+- Restaura los paquetes **NuGet** si es necesario.
+- Ejecuta la aplicación para abrir el formulario principal, donde podrás gestionar el catálogo de productos y las ventas.
 
 
 ### 2. Clonar el Repositorio
