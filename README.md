@@ -30,4 +30,4 @@ Este proyecto es una aplicación de escritorio desarrollada en **Windows Forms**
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+https://github.com/EdithEDL/Prueba-T-cnica.git
