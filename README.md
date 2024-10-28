@@ -31,3 +31,8 @@ Clona este repositorio en tu máquina local:
 
 ```bash
 https://github.com/EdithEDL/Prueba-T-cnica.git
+
+## Ejecución del Proyecto 
+Abre el proyecto en Visual Studio.
+Restaura los paquetes **NuGe**t si es necesario.
+Ejecuta la aplicación para abrir el formulario principal, donde podrás gestionar el catálogo de productos y las ventas.
